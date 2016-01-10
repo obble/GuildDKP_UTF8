@@ -1,0 +1,7 @@
+## Interface: 11200
+## Author: modernist
+## Title: GuildDKP UTF8
+## Notes: GuildDKP slash command sub fix for UTF8 characters
+## LoadOnDemand: 1
+## LoadWith: GuildDKP
+sub.lua
